@@ -67,3 +67,6 @@ ff02::3 ip6-hosts
 0.0.0.0 snapads.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 measurementapi.com
