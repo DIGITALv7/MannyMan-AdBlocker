@@ -65,3 +65,5 @@ ff02::3 ip6-hosts
 0.0.0.0 trkkn.com
 0.0.0.0 adstransparency.google.com
 0.0.0.0 snapads.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
