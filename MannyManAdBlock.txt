@@ -60,3 +60,5 @@ ff02::3 ip6-hosts
 0.0.0.0 ads.youtube.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 dts.innovid.com
+0.0.0.0 amazonaax.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
