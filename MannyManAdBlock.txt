@@ -79,5 +79,5 @@ ff02::3 ip6-hosts
 0.0.0.0 geniusmonkey.com
 0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.telegram.org
-0.0.0.0 privacy.aol.com/
+0.0.0.0 privacy.aol.com
 0.0.0.0 business.nextdoor.com
