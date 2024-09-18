@@ -73,4 +73,5 @@ ff02::3 ip6-hosts
 0.0.0.0 api.instagram.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 hls.ttvnw.net
-ht
+0.0.0.0 getadmiral.com/
+0.0.0.0 getadmiral.com/pb?utm_source=www.wfaa.com&utm_medium=pb&utm_campaign=e&session=5-f676f5a9c6b977113ee87b461d2c6663-6763652d75732d63656e7472616c31-3?utm_source=www.wfaa.com&utm_medium=pb&utm_campaign=e&session=5-f676f5a9c6b977113ee87b461d2c6663-6763652d75732d63656e7472616c31-3
