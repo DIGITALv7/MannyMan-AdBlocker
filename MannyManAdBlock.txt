@@ -73,3 +73,4 @@ ff02::3 ip6-hosts
 0.0.0.0 api.instagram.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 hls.ttvnw.net
+ht
