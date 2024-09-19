@@ -1,7 +1,7 @@
 #    ----»»— MannyMan's Ad Blocker —««----
 #
-#      |    •  UPDATED: 09/18/24  •    |
-#      |    •  TIME: 04:27PM CST  •    |
+#      |    •  UPDATED: 09/19/24  •    |
+#      |    •  TIME: 06:35PM CST  •    |
 #      |    •  SIZE: 2.67KB  •         |
 #
 #      ............♠︎...................♠︎...........
@@ -47,6 +47,7 @@ ff02::3 ip6-hosts
 #             ________________________
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.doubleclick.net
 0.0.0.0 amazonaws.com
 0.0.0.0 adcolony.com
 0.0.0.0 amazon-adsystem.com
@@ -82,3 +83,5 @@ ff02::3 ip6-hosts
 0.0.0.0 ads.telegram.org
 0.0.0.0 privacy.aol.com
 0.0.0.0 business.nextdoor.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
