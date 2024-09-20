@@ -23,24 +23,22 @@
 #
 #       •••√••• RECOMMENDED DNS SERVERS •••√•••
 #                _______________________
-#                _______________________
 #
 # dns.adguard-dns.com
 # one.one.one.one
 # 1dot1dot1dot1.cloudflare-dns.com
 #
+#
 #       •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
 #                           _______________________
-#                           _______________________
 #
-# AdAway, Blokada, uOrigin, Pi-Hole Samsung browser Ad-blocking plug-ins,
-# Ad Block, Ad Block Plus, AdAware, Ad Guard
+# AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
+# AdAware, AdGuard
 #
 #
 #
 #
 #       •••◆••• LOCAL HOSTS INIT •••◆•••
-#            _______________________
 #            _______________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -57,9 +55,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-#
 #        •••◆••• BLOCK LISTS INIT •••◆•••
-#             ________________________
 #             ________________________
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
