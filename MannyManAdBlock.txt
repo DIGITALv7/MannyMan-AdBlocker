@@ -21,6 +21,22 @@
 #    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy
 #
 #
+#       •••√••• RECOMMENDED DNS SERVERS •••√•••
+#                _______________________
+#                _______________________
+#
+# dns.adguard-dns.com
+# one.one.one.one
+# 1dot1dot1dot1.cloudflare-dns.com
+#
+#       •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
+#                           _______________________
+#                           _______________________
+#
+# AdAway, Blokada, uOrigin, Pi-Hole Samsung browser Ad-blocking plug-ins,
+# Ad Block, Ad Block Plus, AdAware, Ad Guard
+#
+#
 #
 #
 #       •••◆••• LOCAL HOSTS INIT •••◆•••
