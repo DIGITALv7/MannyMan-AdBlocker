@@ -102,6 +102,8 @@ ff02::3 ip6-hosts
 0.0.0.0 adsrvr.org
 0.0.0.0 api.ads.flurry.com
 0.0.0.0 td.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
 #
 # ---------------------------
 # ---- W H I T E L I S T ----
