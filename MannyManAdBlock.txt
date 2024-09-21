@@ -106,6 +106,10 @@ ff02::3 ip6-hosts
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 api2.branch.io
+0.0.0.0 pool.ntp.org
+0.0.0.0 spade.twitch.tv
+0.0.0.0 sdk.ad.smaato.net
 #
 # ---------------------------
 # ---- W H I T E L I S T ----
