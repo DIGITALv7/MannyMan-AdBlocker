@@ -21,25 +21,25 @@
 #    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy
 #
 #
-#       •••√••• RECOMMENDED DNS SERVERS •••√•••
-#                _______________________
+# _______________________________________
+# •••√••• RECOMMENDED DNS SERVERS •••√•••
+# _______________________________________
 #
 # dns.adguard-dns.com
 # one.one.one.one
 # 1dot1dot1dot1.cloudflare-dns.com
 #
-#
-#       •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
-#                           _______________________
+# ______________________________________________________________
+# •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
+# ______________________________________________________________
 #
 # AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
 # AdAware, AdGuard
 #
 #
-#
-#
-#       •••◆••• LOCAL HOSTS INIT •••◆•••
-#            _______________________
+# _________________________________
+# •••◆••• LOCAL HOSTS INIT •••◆•••
+# _________________________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -55,8 +55,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
+# _________________________________
 # •••◆••• BLOCK LISTS INIT •••◆•••
-# ________________________
+# _________________________________
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.doubleclick.net
@@ -100,8 +101,9 @@ ff02::3 ip6-hosts
 0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 adsrvr.org
 #
-#
-#    ---- W H I T E L I S T ----
+# ---------------------------
+# ---- W H I T E L I S T ----
+# ---------------------------
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
