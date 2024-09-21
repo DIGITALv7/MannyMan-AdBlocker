@@ -55,8 +55,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-#        •••◆••• BLOCK LISTS INIT •••◆•••
-#             ________________________
+# •••◆••• BLOCK LISTS INIT •••◆•••
+# ________________________
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.doubleclick.net
@@ -98,9 +98,10 @@ ff02::3 ip6-hosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 edge.ads.twitch.tv
-
-
-#    ---- WhiteList ----
+0.0.0.0 adsrvr.org
+#
+#
+#    ---- W H I T E L I S T ----
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
