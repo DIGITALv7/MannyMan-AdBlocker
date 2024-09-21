@@ -72,6 +72,7 @@ ff02::3 ip6-hosts
 0.0.0.0 samsungads.com
 0.0.0.0 hicloud.com
 0.0.0.0 unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 dts.innovid.com
