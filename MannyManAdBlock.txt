@@ -97,7 +97,10 @@ ff02::3 ip6-hosts
 0.0.0.0 business.nextdoor.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 edge.ads.twitch.tv
 
-# --- WhiteList ---
+
+#    ---- WhiteList ----
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
+@@||api.viewerattack.com
