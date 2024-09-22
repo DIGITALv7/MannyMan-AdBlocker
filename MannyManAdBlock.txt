@@ -117,3 +117,4 @@ ff02::3 ip6-hosts
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
+@@||functions.soundalerts.com
