@@ -109,10 +109,18 @@ ff02::3 ip6-hosts
 0.0.0.0 api2.branch.io
 0.0.0.0 pool.ntp.org
 0.0.0.0 spade.twitch.tv
-0.0.0.0 sdk.ad.smaato.net
+0.0.0.0 adnxs.com
+0.0.0.0 360yield.com
+0.0.0.0 smaato.net
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 thenai.org
+0.0.0.0 networkadvertising.org
+0.0.0.0 privacy.us.criteo.com
+0.0.0.0 criteo.com
+0.0.0.0 aboutads.info
+0.0.0.0 adbrain.com
 #
 # ---------------------------
 # ---- W H I T E L I S T ----
