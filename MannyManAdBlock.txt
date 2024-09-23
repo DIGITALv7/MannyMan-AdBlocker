@@ -1,7 +1,9 @@
 ! ----»»— MannyMan's Ad Blocker —««----
 #
+! |  •  TITLE: MannyMan-AdBlocker
+! |  •  LIST TYPE: Supplementary Host List
+! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  LIST TYPE: Supplementary Hosts List  •  |
 ! |  •  UPDATED: 09/22/24  •  |
 ! |  •  TIME: 01:35PM CST / 13:35PM  •  |
 ! |  •  SIZE: 4.14KB  •  |
