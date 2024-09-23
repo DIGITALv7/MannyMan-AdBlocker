@@ -17,14 +17,10 @@
 !    \                                                /
 !     \............♠︎...................♠︎.........../
 #
-! ★ CREDITZ ★ •• AzeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
+! ★ SHOUT0UTz: ★ •• AzeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
 !     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
-!     r00t-X, Modded-Matt, maliciouS, Andrea-Doom & SinClair
-!                (••••••••••••••••••••••••) 
-!                            $$
-!                (••••••••••••••••••••••••) 
-! ★ SHOUTOUTZ ★ •• SoH, TEF,
-!    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy
+!     r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
+!    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy.                      
 #
 ! _______________________________________
 ! •••√••• RECOMMENDED DNS SERVERS •••√•••
@@ -75,6 +71,33 @@ ff02::3 ip6-hosts
 ! ________________________________
 ! •••◆••• BLOCK LIST INIT •••◆•••
 ! ________________________________
+# ◑ --- Twitch TV Ads --- ◐
+0.0.0.0 api2.branch.io
+0.0.0.0 spade.twitch.tv
+0.0.0.0 hls.ttvnw.net
+0.0.0.0 edge.ads.twitch.tv
+0.0.0.0 userlocation.googleapis.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 pool.ntp.org
+0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 secure-sts-prod.imrworldwide.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 webapi.sdk.crowd-umlaut.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 api.sprig.com
+0.0.0.0 qt-houston.bronze.systems
+0.0.0.0 d2763msf1wgvw2.cloudfront.net
+0.0.0.0 d1fpdhao7f8ux5.cloudfront.net
+0.0.0.0 configs.sdk.crowd-umlaut.com
+0.0.0.0 dus.sdk.crowd-umlaut.com
+0.0.0.0 ul.sdk.crowd-umlaut.com
+0.0.0.0 ul.api.c0nnectthed0ts.com
+0.0.0.0 awsul3.api.c0nnectthed0ts.com
+# ◑ --------------------- ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 amazonaws.com
@@ -82,7 +105,6 @@ ff02::3 ip6-hosts
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 googleadservices.com
 0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 adroll.com
 0.0.0.0 adsense.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 samsungads.com
@@ -107,7 +129,6 @@ ff02::3 ip6-hosts
 0.0.0.0 measurementapi.com
 0.0.0.0 api.instagram.com
 0.0.0.0 ads.facebook.com
-0.0.0.0 hls.ttvnw.net
 0.0.0.0 getadmiral.com
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 jumpfly.com
@@ -118,16 +139,12 @@ ff02::3 ip6-hosts
 0.0.0.0 business.nextdoor.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 adsrvr.org
 0.0.0.0 api.ads.flurry.com
 0.0.0.0 td.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 sdk.ad.smaato.net
-0.0.0.0 api2.branch.io
-0.0.0.0 pool.ntp.org
-0.0.0.0 spade.twitch.tv
 0.0.0.0 adnxs.com
 0.0.0.0 360yield.com
 0.0.0.0 smaato.net
@@ -189,7 +206,6 @@ ff02::3 ip6-hosts
 0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
@@ -245,6 +261,26 @@ ff02::3 ip6-hosts
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 admob.google.com
+0.0.0.0 inmobi.com
+0.0.0.0 mountain.com
+0.0.0.0 zazz.io
+0.0.0.0 start.io
+0.0.0.0 airtory.com
+0.0.0.0 fluency.inc
+0.0.0.0 lp.moburst.com
+0.0.0.0 pages.launch.stackadapt.com
+0.0.0.0 agilityads.com
+0.0.0.0 vibe.co
+0.0.0.0 thumbvista.com
+0.0.0.0 adroll.com
+0.0.0.0 simpli.fi
+0.0.0.0 spectrumreach.com
+0.0.0.0 purevisibility.com
+0.0.0.0 gamoshi.com
+0.0.0.0 chartboost.com
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
@@ -319,12 +355,13 @@ ff02::3 ip6-hosts
 @@||help.ui.xboxlive.com
 @@||licensing.xboxlive.com
 @@||eds.xboxlive.com
-@@||www.xboxlive.com
+@@||xboxlive.com
 @@||settings-win.data.microsoft.com
 # ---- Microsoft Office ----
 @@||officeclient.microsoft.com
 # ---- Weather.com Videos ----
 @@||v.w-x.co
+@@||s.w-x.co
 # ---- Epic Games Store ----
 @@||tracking.epicgames.com
 # ---- Lowe's Checkout ----
