@@ -5,8 +5,9 @@
 ! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/22/24  •  |
-! |  •  TIME: 01:35PM CST / 13:35PM  •  |
+! |  •  TIME: 07:35PM CST / 19:35PM  •  |
 ! |  •  SIZE: 4.14KB  •  |
+! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt
 ! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
 !      ............♠︎...................♠︎...........
