@@ -1,7 +1,7 @@
-! ----»»— MannyMan's Ad Blocker —««----
+! ----»»— MannyMan's Ad Blocker—««----
 #
 ! |  •  TITLE: MannyMan-AdBlocker
-! |  •  LIST TYPE: Supplementary Host List
+! |  •  LIST TYPE: Supplementary Filter List
 ! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/22/24  •  |
@@ -17,7 +17,7 @@
 !    \                                                /
 !     \............♠︎...................♠︎.........../
 #
-! ★ CREDITZ ★ •• AzTeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
+! ★ CREDITZ ★ •• AzeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
 !     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
 !     r00t-X, Modded-Matt, maliciouS, Andrea-Doom & SinClair
 !                (••••••••••••••••••••••••) 
@@ -40,6 +40,16 @@
 #
 ! AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
 ! AdAware, AdGuard
+#
+! ______________________________________
+! •••√••• AD BLOCK TESTING SITES •••√•••
+! ______________________________________
+#
+! https://adblock-tester.com/
+! https://d3ward.github.io/toolz/src/adblock.html
+! https://blockads.fivefilters.org/
+! https://www.canyoublockit.com/
+! https://ads-blocker.com/testing/
 #
 #
 ! ________________________________
