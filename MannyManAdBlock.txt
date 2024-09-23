@@ -1,45 +1,47 @@
-#    ----»»— MannyMan's Ad Blocker —««----
+! ----»»— MannyMan's Ad Blocker —««----
 #
-#      |    •  UPDATED: 09/22/24  •    |
-#      |    •  TIME: 01:35PM CST / 13:35PM  •    |
-#      |    •  SIZE: 4.14KB  •    |
+! |  •  AUTHOR: DIGITALv7  •  |
+! |  •  LIST TYPE: Supplementary Hosts List  •  |
+! |  •  UPDATED: 09/22/24  •  |
+! |  •  TIME: 01:35PM CST / 13:35PM  •  |
+! |  •  SIZE: 4.14KB  •  |
+! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
-#      ............♠︎...................♠︎...........
-#     /                                              \
-#    /                                                \
-#   (               Work in progress :=)               ) 
-#    \                                                /
-#     \............♠︎...................♠︎.........../
+!      ............♠︎...................♠︎...........
+!     /                                              \
+!    /                                                \
+!   (               Work in progress :=)               ) 
+!    \                                                /
+!     \............♠︎...................♠︎.........../
 #
-#    ★ CREDITZ ★ •• AzTeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
-#     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
-#     r00t-X, Modded-Matt, maliciouS, Andrea-Doom & SinClair
-#                (••••••••••••••••••••••••) 
-#                            $$
-#                (••••••••••••••••••••••••) 
-#    ★ SHOUTOUTZ ★ •• SoH, TEF,
-#    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy
+! ★ CREDITZ ★ •• AzTeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
+!     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
+!     r00t-X, Modded-Matt, maliciouS, Andrea-Doom & SinClair
+!                (••••••••••••••••••••••••) 
+!                            $$
+!                (••••••••••••••••••••••••) 
+! ★ SHOUTOUTZ ★ •• SoH, TEF,
+!    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy
+#
+! _______________________________________
+! •••√••• RECOMMENDED DNS SERVERS •••√•••
+! _______________________________________
+#
+! dns.adguard-dns.com
+! one.one.one.one
+! 1dot1dot1dot1.cloudflare-dns.com
+#
+! ______________________________________________________________
+! •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
+! ______________________________________________________________
+#
+! AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
+! AdAware, AdGuard
 #
 #
-# _______________________________________
-# •••√••• RECOMMENDED DNS SERVERS •••√•••
-# _______________________________________
-#
-# dns.adguard-dns.com
-# one.one.one.one
-# 1dot1dot1dot1.cloudflare-dns.com
-#
-# ______________________________________________________________
-# •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
-# ______________________________________________________________
-#
-# AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
-# AdAware, AdGuard
-#
-#
-# _________________________________
-# •••◆••• LOCAL HOSTS INIT •••◆•••
-# _________________________________
+! ________________________________
+! •••◆••• LOCAL HOST INIT •••◆•••
+! ________________________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -55,9 +57,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-# _________________________________
-# •••◆••• BLOCK LISTS INIT •••◆•••
-# _________________________________
+! ________________________________
+! •••◆••• BLOCK LIST INIT •••◆•••
+! ________________________________
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.doubleclick.net
@@ -73,6 +75,10 @@ ff02::3 ip6-hosts
 0.0.0.0 hicloud.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 ads.gridtechno.com
+0.0.0.0 adservice.google.com
+0.0.0.0 p16-ad-sg.ibyteimg.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 dts.innovid.com
@@ -121,10 +127,16 @@ ff02::3 ip6-hosts
 0.0.0.0 criteo.com
 0.0.0.0 aboutads.info
 0.0.0.0 adbrain.com
+0.0.0.0 apps.ad.snaptube.app
+0.0.0.0 config.ad.snaptube.app
+0.0.0.0 analytics.snaptube.app
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 push.snaptube.app
 #
-# ---------------------------
-# ---- W H I T E L I S T ----
-# ---------------------------
+! ------------------------------
+! --◆-- W H I T E L I S T --◆--
+! ------------------------------
+! Prevents streamer channel extensions from causing loading errors. Updated as needed =-)
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
