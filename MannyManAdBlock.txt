@@ -138,7 +138,7 @@ ff02::3 ip6-hosts
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
 ! ------------------------------
-! Prevents streamer channel extensions from causing loading errors. Updated as needed =-)
+# Prevents streamer channel extensions from causing loading errors. Updated as needed =-)
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
