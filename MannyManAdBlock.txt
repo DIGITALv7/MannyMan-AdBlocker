@@ -248,8 +248,23 @@ ff02::3 ip6-hosts
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
 ! ------------------------------
-# Prevents streamer channel extensions from causing loading errors. Updated as needed =-)
+# Twitch TV / Prevents streamer channel extensions from causing loading errors. Updated as needed =-)
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
 @@||functions.soundalerts.com
+# Nvidia Android TV
+@@||events.gfe.nvidia.com
+@@||gfwsl.geforce.com
+# Adobe Updates
+@@||lm.licenses.adobe.com
+@@||activate.adobe.com
+# Stream Elements Stats
+@@||stats.streamelements.com
+# Xbox Achievements
+@@||v10.events.data.microsoft.com
+@@||v20.events.data.microsoft.com
+# Netflix
+@@||api-global.netflix.com
+@@||appboot.netflix.com
+@@||secure.netflix.com
