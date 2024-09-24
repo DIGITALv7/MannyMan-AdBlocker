@@ -34,7 +34,7 @@
 ! •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
 ! ______________________________________________________________
 #
-! AdAway, Blokada, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
+! AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
 ! AdAware, AdGuard
 #
 ! ______________________________________
