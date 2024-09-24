@@ -404,6 +404,7 @@ ff02::3 ip6-hosts
 0.0.0.0 mobileads.com
 0.0.0.0 adquick.com
 0.0.0.0 adexchanger.com
+0.0.0.0 info.analytics-iq.com
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
