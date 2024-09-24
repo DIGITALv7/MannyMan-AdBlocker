@@ -291,6 +291,34 @@ ff02::3 ip6-hosts
 0.0.0.0 adbrain.com
 0.0.0.0 acuityads.com
 0.0.0.0 33across.com
+dstillery.com
+https://www.dianomi.com/
+https://www.demandbase.com/
+http://datonics.com
+http://www.criteo.com
+http://www.cognitiv.ai
+http://www.clickagy.com
+https://claritas.com/
+https://www.choreograph.com/
+http://www.choozle.com
+https://chicory.co
+https://www.catalina.com/buyervision
+https://branch.io
+http://bombora.com/
+http://www.gumgum.com/
+http://www.groupm.com
+/http://www.freewheel.tv/
+https://www.flashtalking.com
+/http://eyeota.com/
+http://www.tapad.com/
+https://www.epsilon.com
+http://dstillery.com
+https://www.dianomi.com
+/https://www.demandbase.com
+/http://datonics.com
+
+
+
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
