@@ -4,8 +4,8 @@
 ! |  •  LIST TYPE: Supplementary Filter List
 ! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  UPDATED: 09/23/24  •  |
-! |  •  TIME: 07:35PM CST, UTC -5 || 19:35PM  •  |
+! |  •  UPDATED: 09/24/24  •  |
+! |  •  TIME: 02:35PM CST, UTC -5 || 14:35PM  •  |
 ! |  •  SIZE: 11.7KB  •  |
 ! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
 ! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
@@ -291,91 +291,119 @@ ff02::3 ip6-hosts
 0.0.0.0 adbrain.com
 0.0.0.0 acuityads.com
 0.0.0.0 33across.com
-dstillery.com
-https://www.dianomi.com/
-https://www.demandbase.com/
-http://datonics.com
-http://www.criteo.com
-http://www.cognitiv.ai
-http://www.clickagy.com
-https://claritas.com/
-https://www.choreograph.com/
-http://www.choozle.com
-https://chicory.co
-https://www.catalina.com/buyervision
-https://branch.io
-http://bombora.com/
-http://www.gumgum.com/
-http://www.groupm.com
-/http://www.freewheel.tv/
-https://www.flashtalking.com
-/http://eyeota.com/
-http://www.tapad.com/
-https://www.epsilon.com
-http://dstillery.com
-https://www.dianomi.com
-/https://www.demandbase.com
-/http://datonics.com
-https://www.lotame.com
-http://www.liveramp.com
-http://www.liveintent.com
-https://knorex.com
-http://www.kargo.com
-https://iqm.com
-http://www.ipromote.com
-http://www.inuvo.com
-http://www.innovid.com
-http://indexexchange.com
-https://www.havasedge.com
-http://www.quantcast.com
-http://www.pulsepoint.com/
-http://pubmatic.com/
-https://www.pebblepost.com/
-http://www.owneriq.com
-http://www.outbrain.com
-https://www.oracle.com/cx/advertising/
-https://www.winwithoptimal.com
-http://www.openx.com
-https://www.nextroll.com/
-https://www.nativo.com
-http://wearemiq.com
-http://www.merkleinc.com
-https://www.mediaocean.com/
-http://www.media.net
-https://www.magnite.com
-/https://www.lotame.com
-http://www.liveramp.com
-http://www.liveintent.com
-https://knorex.com
-http://www.kargo.com
-https://www.swoop.com
-https://www.stackadapt.com
-/https://www.springserve.com
-https://www.sovrn.com
-/https://sonobi.com/
-http://www.sojern.com
-https://www.skimlinks.com
-http://www.sizmek.com
-https://www.sharethrough.com
-http://www.sharethis.com
-https://samba.tv/
-https://advertising.roku.com
-http://www.responsys.com
-http://marketing.rakuten.com/
-http://ziffdavis.com
-https://zetaglobal.com/
-https://yieldmo.com/
-http://www.viantinc.com
-http://www.v12groupinc.com
-https://unruly.co
-http://undertone.com
-http://www.triplelift.com
-https://www.thetradedesk.com
-https://www.nielsen.com
-http://www.taboola.com
-tapad.com
-
-
+0.0.0.0 dstillery.com
+0.0.0.0 dianomi.com
+0.0.0.0 demandbase.com
+0.0.0.0 datonics.com
+0.0.0.0 criteo.com
+0.0.0.0 cognitiv.ai
+0.0.0.0 clickagy.com
+0.0.0.0 claritas.com
+0.0.0.0 choreograph.com
+0.0.0.0 choozle.com
+0.0.0.0 chicory.co
+0.0.0.0 catalina.com
+0.0.0.0 branch.io
+0.0.0.0 bombora.com
+0.0.0.0 gumgum.com
+0.0.0.0 groupm.com
+0.0.0.0 freewheel.tv
+0.0.0.0 flashtalking.com
+0.0.0.0 eyeota.com
+0.0.0.0 tapad.com
+0.0.0.0 epsilon.com
+0.0.0.0 dstillery.com
+0.0.0.0 dianomi.com
+0.0.0.0 demandbase.com
+0.0.0.0 datonics.com
+0.0.0.0 lotame.com
+0.0.0.0 liveramp.com
+0.0.0.0 liveintent.com
+0.0.0.0 knorex.com
+0.0.0.0 kargo.com
+0.0.0.0 iqm.com
+0.0.0.0 ipromote.com
+0.0.0.0 inuvo.com
+0.0.0.0 innovid.com
+0.0.0.0 indexexchange.com
+0.0.0.0 havasedge.com
+0.0.0.0 quantcast.com
+0.0.0.0 pulsepoint.com
+0.0.0.0 pubmatic.com
+0.0.0.0 pebblepost.com
+0.0.0.0 owneriq.com
+0.0.0.0 outbrain.com
+0.0.0.0 winwithoptimal.com
+0.0.0.0 openx.com
+0.0.0.0 nextroll.com
+0.0.0.0 nativo.com
+0.0.0.0 wearemiq.com
+0.0.0.0 merkleinc.com
+0.0.0.0 mediaocean.com
+0.0.0.0 media.net
+0.0.0.0 magnite.com
+0.0.0.0 lotame.com
+0.0.0.0 liveramp.com
+0.0.0.0 liveintent.com
+0.0.0.0 knorex.com
+0.0.0.0 adjust.com
+0.0.0.0 hitapps.com
+0.0.0.0 evadav.com
+0.0.0.0 reacheffect.com
+0.0.0.0 astrad.io
+0.0.0.0 moloco.com
+0.0.0.0 kevel.com
+0.0.0.0 limelight.inc
+0.0.0.0 equativ.com
+0.0.0.0 e-planning.net
+0.0.0.0 epom.com
+0.0.0.0 oiopublisher.com
+0.0.0.0 adflight.io
+0.0.0.0 adglare.com
+0.0.0.0 adspirit.com
+0.0.0.0 appnexus.com
+0.0.0.0 zedo.com
+0.0.0.0 adhese.com
+0.0.0.0 djaxadserver.com
+0.0.0.0 kargo.com
+0.0.0.0 swoop.com
+0.0.0.0 stackadapt.com
+0.0.0.0 springserve.com
+0.0.0.0 sovrn.com
+0.0.0.0 sonobi.com
+0.0.0.0 sojern.com
+0.0.0.0 skimlinks.com
+0.0.0.0 sizmek.com
+0.0.0.0 sharethrough.com
+0.0.0.0 sharethis.com
+0.0.0.0 samba.tv
+0.0.0.0 advertising.roku.com
+0.0.0.0 responsys.com
+0.0.0.0 marketing.rakuten.com
+0.0.0.0 ziffdavis.com
+0.0.0.0 zetaglobal.com
+0.0.0.0 yieldmo.com
+0.0.0.0 viantinc.com
+0.0.0.0 v12groupinc.com
+0.0.0.0 unruly.co
+0.0.0.0 undertone.com
+0.0.0.0 triplelift.com
+0.0.0.0 thetradedesk.com
+0.0.0.0 nielsen.com
+0.0.0.0 taboola.com
+0.0.0.0 tapad.com
+0.0.0.0 appnexus.com
+0.0.0.0 pubscale.com
+0.0.0.0 businessofapps.com
+0.0.0.0 publift.com
+0.0.0.0 installatron.com
+0.0.0.0 blockthrough.com
+0.0.0.0 sitepoint.com
+0.0.0.0 geniusmonkey.com
+0.0.0.0 stackadapt.com
+0.0.0.0 mobileads.com
+0.0.0.0 adquick.com
+0.0.0.0 adexchanger.com
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
