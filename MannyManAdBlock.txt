@@ -1,4 +1,4 @@
-! ----»»— MannyMan's Ad Blocker—««----
+! ----»» [ MannyMan's Ad Blocker ] ««----
 #
 ! |  •  TITLE: MannyMan-AdBlocker
 ! |  •  LIST TYPE: Supplementary Filter List
