@@ -112,6 +112,7 @@ ff02::3 ip6-hosts
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
 # ◑ --------------------- ◐
 0.0.0.0 ads.doubleclick.net
+0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 amazonaws.com
 0.0.0.0 adcolony.com
 0.0.0.0 amazon-adsystem.com
