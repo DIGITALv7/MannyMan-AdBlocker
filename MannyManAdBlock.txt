@@ -114,6 +114,7 @@ ff02::3 ip6-hosts
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 px.adhigh.net
+0.0.0.0 ad-spire.net
 0.0.0.0 t.adx.opera.com
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 sync.gonet-ads.com
