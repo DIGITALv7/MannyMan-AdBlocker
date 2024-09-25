@@ -73,6 +73,10 @@ ff02::3 ip6-hosts
 ! ________________________________
 # ◑ --- Twitch TV Ads --- ◐
 0.0.0.0 api2.branch.io
+0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
@@ -107,7 +111,6 @@ ff02::3 ip6-hosts
 0.0.0.0 ul.api.c0nnectthed0ts.com
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
 # ◑ --------------------- ◐
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 amazonaws.com
 0.0.0.0 adcolony.com
