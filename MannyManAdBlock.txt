@@ -22,24 +22,24 @@
 !     r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
 !    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy.                      
 #
-! _______________________________________
-! •••√••• RECOMMENDED DNS SERVERS •••√•••
-! _______________________________________
+! ___________________________________________
+! •••√••• [ RECOMMENDED DNS SERVERS ] •••√•••
+! ___________________________________________
 #
 ! dns.adguard-dns.com
 ! one.one.one.one
 ! 1dot1dot1dot1.cloudflare-dns.com
 #
-! ______________________________________________________________
-! •••√••• RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS •••√•••
-! ______________________________________________________________
+! __________________________________________________________________
+! •••√••• [ RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS ] •••√•••
+! __________________________________________________________________
 #
 ! AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
 ! AdAware, AdGuard
 #
-! ______________________________________
-! •••√••• AD BLOCK TESTING SITES •••√•••
-! ______________________________________
+! ___________________________________________
+! •••√•••  [ AD BLOCK TESTING SITES ] •••√•••
+! ___________________________________________
 #
 ! https://adblock-tester.com/
 ! https://d3ward.github.io/toolz/src/adblock.html
@@ -47,21 +47,21 @@
 ! https://www.canyoublockit.com/
 ! https://ads-blocker.com/testing/
 #
-! ______________________________________
-! •••√••• DNS REQUEST LOGS INFO •••√•••
-! ______________________________________
+! _________________________________________
+! •••√••• [ DNS REQUEST LOGS INFO ] •••√•••
+! _________________________________________
 #
 ! If some website and/or app necessary images fail to load -
 ! check your ad-block's DNS Request Logs and whitelist any necessary link -
 ! and then refresh the website/app.
 #
 #
-! ~~~~ Filters Start ~~~~
+# ~~~~ [ Filters Start ] ~~~~
 #
 #
-! ________________________________
-! •••◆••• LOCAL HOST INIT •••◆•••
-! ________________________________
+! ____________________________________
+! •••◆••• [ LOCAL HOST INIT ] •••◆•••
+! ____________________________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -77,9 +77,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-! ________________________________
-! •••◆••• BLOCK LIST INIT •••◆•••
-! ________________________________
+! _____________________________________
+! •••◆••• [  BLOCK LIST INIT ] •••◆•••
+! _____________________________________
 # ◑ --- Twitch TV Ads --- ◐
 0.0.0.0 api2.branch.io
 0.0.0.0 geomobileservices-pa.googleapis.com
@@ -112,7 +112,7 @@ ff02::3 ip6-hosts
 0.0.0.0 ul.sdk.crowd-umlaut.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
-# ◑ --------------------- ◐
+# ◑ ------------------------- ◐
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 px.adhigh.net
