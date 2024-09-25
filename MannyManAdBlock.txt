@@ -47,6 +47,14 @@
 ! https://www.canyoublockit.com/
 ! https://ads-blocker.com/testing/
 #
+! ______________________________________
+! •••√••• DNS REQUEST LOGS INFO •••√•••
+! ______________________________________
+#
+! If some website and/or app necessary images fail to load -
+! check your ad-block's DNS Request Logs and whitelist any necessary link -
+! and then refresh the website/app.
+#
 #
 #
 #
@@ -80,13 +88,6 @@ ff02::3 ip6-hosts
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gvt2.com
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons3.gvt2.com
-0.0.0.0 beacons4.gvt2.com
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 beacons5.gvt3.com
 0.0.0.0 ads-api.x.com
 0.0.0.0 spade.twitch.tv
 0.0.0.0 hls.ttvnw.net
