@@ -75,6 +75,12 @@ ff02::3 ip6-hosts
 0.0.0.0 api2.branch.io
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 ads-api.x.com
 0.0.0.0 spade.twitch.tv
 0.0.0.0 hls.ttvnw.net
