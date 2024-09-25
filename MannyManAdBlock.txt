@@ -92,8 +92,8 @@ ff02::3 ip6-hosts
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 pool.ntp.org
-0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
@@ -103,8 +103,6 @@ ff02::3 ip6-hosts
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 api.sprig.com
 0.0.0.0 qt-houston.bronze.systems
-0.0.0.0 d2763msf1wgvw2.cloudfront.net
-0.0.0.0 d1fpdhao7f8ux5.cloudfront.net
 0.0.0.0 configs.sdk.crowd-umlaut.com
 0.0.0.0 dus.sdk.crowd-umlaut.com
 0.0.0.0 ul.sdk.crowd-umlaut.com
@@ -426,11 +424,12 @@ ff02::3 ip6-hosts
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
 ! ------------------------------
-# ---- Twitch TV / Prevents streamer channel extensions from causing loading errors. Updated as needed. ----
+# ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
 @@||supervisor.ext-twitch.tv
 @@||coordinator.ext-twitch.tv
 @@||api.viewerattack.com
 @@||functions.soundalerts.com
+@@||d3aqoihi2n8ty8.cloudfront.net
 # ---- Nvidia Android TV ----
 @@||events.gfe.nvidia.com
 @@||gfwsl.geforce.com
