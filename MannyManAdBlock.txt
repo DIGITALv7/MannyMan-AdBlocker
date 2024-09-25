@@ -1,7 +1,7 @@
 ! ----»» [ MannyMan's Ad Blocker ] ««----
 #
 ! |  •  TITLE: MannyMan-AdBlocker
-! |  •  LIST TYPE: Supplementary Filter List
+! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/24/24  •  |
