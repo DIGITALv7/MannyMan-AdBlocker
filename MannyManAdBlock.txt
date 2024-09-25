@@ -73,6 +73,8 @@ ff02::3 ip6-hosts
 ! ________________________________
 # ◑ --- Twitch TV Ads --- ◐
 0.0.0.0 api2.branch.io
+0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
