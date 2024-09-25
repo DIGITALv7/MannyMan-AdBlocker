@@ -92,7 +92,6 @@ ff02::3 ip6-hosts
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 ads-api.x.com
 0.0.0.0 spade.twitch.tv
 0.0.0.0 hls.ttvnw.net
 0.0.0.0 edge.ads.twitch.tv
@@ -160,6 +159,7 @@ ff02::3 ip6-hosts
 0.0.0.0 adservice.google.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 amazonaax.com
