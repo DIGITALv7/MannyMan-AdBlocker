@@ -74,6 +74,8 @@ ff02::3 ip6-hosts
 # ◑ --- Twitch TV Ads --- ◐
 0.0.0.0 api2.branch.io
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 spade.twitch.tv
 0.0.0.0 hls.ttvnw.net
 0.0.0.0 edge.ads.twitch.tv
