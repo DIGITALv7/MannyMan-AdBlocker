@@ -80,7 +80,7 @@ ff02::3 ip6-hosts
 ! _____________________________________
 ! •••◆••• [  BLOCK LIST INIT ] •••◆•••
 ! _____________________________________
-# ◑ --- Twitch TV Ads --- ◐
+# ◑ ------ Twitch TV Ads ------ ◐
 0.0.0.0 api2.branch.io
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
