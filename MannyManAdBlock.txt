@@ -6,7 +6,7 @@
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/24/24  •  |
 ! |  •  TIME: 02:35PM CST, UTC -5 || 14:35PM  •  |
-! |  •  SIZE: 14.3KB  •  |
+! |  •  SIZE: 14.7KB  •  |
 ! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
 ! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
