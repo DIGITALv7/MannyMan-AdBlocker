@@ -51,7 +51,7 @@
 ! •••√••• [ DNS REQUEST LOGS INFO ] •••√•••
 ! _________________________________________
 #
-! If some website and/or app necessary images fail to load -
+! If some website's and/or app's necessary images fail to load -
 ! check your ad-block's DNS Request Logs and whitelist any necessary link -
 ! and then refresh the website/app.
 #
