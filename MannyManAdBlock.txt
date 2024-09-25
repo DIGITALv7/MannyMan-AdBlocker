@@ -112,7 +112,7 @@ ff02::3 ip6-hosts
 0.0.0.0 ul.sdk.crowd-umlaut.com
 0.0.0.0 ul.api.c0nnectthed0ts.com
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
-# ◑ ------------------------- ◐
+# ◑ --------------------------- ◐
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 px.adhigh.net
