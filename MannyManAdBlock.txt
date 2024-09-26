@@ -4,9 +4,9 @@
 ! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
 ! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  UPDATED: 09/24/24  •  |
-! |  •  TIME: 02:35PM CST, UTC -5 || 14:35PM  •  |
-! |  •  SIZE: 16.7KB  •  |
+! |  •  UPDATED: 09/26/24  •  |
+! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
+! |  •  SIZE: 17KB  •  |
 ! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
 ! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
