@@ -83,6 +83,7 @@ ff02::3 ip6-hosts
 ! _____________________________________
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 api2.branch.io
+0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
 0.0.0.0 geomobileservices-pa.googleapis.com
