@@ -3,7 +3,7 @@
 ! |  •  TITLE: MannyMan-AdBlocker
 ! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
-! |  •  NUMBER OF DOMAINS: 415
+! |  •  NUMBER OF DOMAINS: 420 | Optimized
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/26/24  •  |
 ! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
@@ -124,6 +124,11 @@ ff02::3 ip6-hosts
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 adsmanager.net
+0.0.0.0 ads.scorecardresearch.com
+0.0.0.0 adtrack.chartboosts.com
+0.0.0.0 ad.trafficshop.com
+0.0.0.0 advertisersapi.doubleclick.net
 0.0.0.0 cdn.msdwnld.com
 0.0.0.0 cdn.mypcbackup.com
 0.0.0.0 inno.bisrv.com
