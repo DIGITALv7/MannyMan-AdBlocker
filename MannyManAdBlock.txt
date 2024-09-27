@@ -61,7 +61,7 @@
 #
 #
 ! ____________________________________
-! •••◆••• [ LOCAL HOST INIT ] •••◆•••
+! •••◆••• [ LOCAL HOST START ] •••◆•••
 ! ____________________________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -79,7 +79,7 @@ ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
 ! _____________________________________
-! •••◆••• [  BLOCK LIST INIT ] •••◆•••
+! •••◆••• [  BLOCK LIST START ] •••◆•••
 ! _____________________________________
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 api2.branch.io
@@ -750,85 +750,85 @@ ff02::3 ip6-hosts
 ! --◆-- W H I T E L I S T --◆--
 ! ------------------------------
 # ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
-@@||supervisor.ext-twitch.tv
-@@||coordinator.ext-twitch.tv
-@@||api.viewerattack.com
-@@||functions.soundalerts.com
-@@||d3aqoihi2n8ty8.cloudfront.net
+@@||supervisor.ext-twitch.tv^
+@@||coordinator.ext-twitch.tv^
+@@||api.viewerattack.com^
+@@||functions.soundalerts.com^
+@@||d3aqoihi2n8ty8.cloudfront.net^
 # ---- Nvidia Android TV ----
-@@||events.gfe.nvidia.com
-@@||gfwsl.geforce.com
+@@||events.gfe.nvidia.com^
+@@||gfwsl.geforce.com^
 # ---- Adobe Updates ----
-@@||lm.licenses.adobe.com
-@@||activate.adobe.com
+@@||lm.licenses.adobe.com^
+@@||activate.adobe.com^
 # ---- Stream Elements Stats ----
-@@||stats.streamelements.com
+@@||stats.streamelements.com^
 # ---- Xbox Achievements ----
-@@||v10.events.data.microsoft.com
-@@||v20.events.data.microsoft.com
+@@||v10.events.data.microsoft.com^
+@@||v20.events.data.microsoft.com^
 # ---- Netflix ----
-@@||api-global.netflix.com
-@@||appboot.netflix.com
-@@||secure.netflix.com
+@@||api-global.netflix.com^
+@@||appboot.netflix.com^
+@@||secure.netflix.com^
 # ---- Google Playstore ----
-@@||android.clients.google.com
+@@||android.clients.google.com^
 # ---- Google Fonts ----
-@@||gstaticadssl.l.google.com
+@@||gstaticadssl.l.google.com^
 # ---- Microsoft Products Internet Connection Test ----
-@@||msftncsi.com
-@@||msftconnecttest.com
+@@||msftncsi.com^
+@@||msftconnecttest.com^
 # ---- Microsoft Web Pages (Office 365, Outlook, etc.) ----
-@@||outlook.office365.com
-@@||products.office.com
-@@||c.s-microsoft.com
-@@||i.s-microsoft.com
-@@||login.live.com
-@@||login.microsoftonline.com
+@@||outlook.office365.com^
+@@||products.office.com^
+@@||c.s-microsoft.com^
+@@||i.s-microsoft.com^
+@@||login.live.com^
+@@||login.microsoftonline.com^
 # ---- Microsoft Store ----
-@@||dl.delivery.mp.microsoft.com
-@@||geo-prod.do.dsp.mp.microsoft.com
-@@||displaycatalog.mp.microsoft.com
+@@||dl.delivery.mp.microsoft.com^
+@@||geo-prod.do.dsp.mp.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
 # ---- Windows 10 Update ----
-@@||sls.update.microsoft.com.akadns.net
-@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-@@||tlu.dl.delivery.mp.microsoft.com
-@@||w settings-win.data.microsoft.com
-@@||v10.vortex-win.data.microsoft.com
+@@||sls.update.microsoft.com.akadns.net^
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
+@@||tlu.dl.delivery.mp.microsoft.com^
+@@||w settings-win.data.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
 # ---- Microsoft Edge Browser Update ----
-@@||msedge.api.cdp.microsoft.com
+@@||msedge.api.cdp.microsoft.com^
 # ---- Xbox LIVE ----
-@@||clientconfig.passport.net
+@@||clientconfig.passport.net^
 # ---- Xbox LIVE Messaging ----
-@@||client-s.gateway.messenger.live.com
+@@||client-s.gateway.messenger.live.com^
 # ---- Xbox Series X/S Store ----
-@@||arc.msn.com
+@@||arc.msn.com^
 # ---- Xbox LIVE required domains ----
-@@||xbox.ipv6.microsoft.com
-@@||device.auth.xboxlive.com
-@@||msftncsi.com
-@@||title.mgt.xboxlive.com
-@@||xsts.auth.xboxlive.com
-@@||title.auth.xboxlive.com
-@@||ctldl.windowsupdate.com
-@@||attestation.xboxlive.com
-@@||xboxexperiencesprod.experimentation.xboxlive.com
-@@||xflight.xboxlive.com
-@@||cert.mgt.xboxlive.com
-@@||xkms.xboxlive.com
-@@||def-vef.xboxlive.com
-@@||notify.xboxlive.com
-@@||help.ui.xboxlive.com
-@@||licensing.xboxlive.com
-@@||eds.xboxlive.com
-@@||xboxlive.com
-@@||settings-win.data.microsoft.com
+@@||xbox.ipv6.microsoft.com^
+@@||device.auth.xboxlive.com^
+@@||msftncsi.com^
+@@||title.mgt.xboxlive.com^
+@@||xsts.auth.xboxlive.com^
+@@||title.auth.xboxlive.com^
+@@||ctldl.windowsupdate.com^
+@@||attestation.xboxlive.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||cert.mgt.xboxlive.com^
+@@||xkms.xboxlive.com^
+@@||def-vef.xboxlive.com^
+@@||notify.xboxlive.com^
+@@||help.ui.xboxlive.com^
+@@||licensing.xboxlive.com^
+@@||eds.xboxlive.com^
+@@||xboxlive.com^
+@@||settings-win.data.microsoft.com^
 # ---- Microsoft Office ----
-@@||officeclient.microsoft.com
+@@||officeclient.microsoft.com^
 # ---- Weather.com Videos ----
-@@||v.w-x.co
-@@||s.w-x.co
+@@||v.w-x.co^
+@@||s.w-x.co^
 # ---- Epic Games Store ----
-@@||tracking.epicgames.com
+@@||tracking.epicgames.com^
 # ---- Lowe's Checkout ----
 @@||assets.adobedtm.com
 # ---- Home Depot Checkout ----
@@ -837,3 +837,8 @@ ff02::3 ip6-hosts
 @@||telemetry-console.api.playstation.com
 # ---- Canon Printers ----
 @@||gdlp01.c-wss.com
+#
+#
+# ------ [ FILTERS END ] ------
+#
+#
