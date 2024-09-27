@@ -3,6 +3,7 @@
 ! |  •  TITLE: MannyMan-AdBlocker
 ! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
+! |  •  NUMBER OF ENTRIES: 415
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/26/24  •  |
 ! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
