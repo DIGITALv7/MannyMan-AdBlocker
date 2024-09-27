@@ -3,9 +3,9 @@
 ! |  •  TITLE: MannyMan-AdBlocker
 ! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
-! |  •  NUMBER OF DOMAINS: 662 | Optimized
+! |  •  NUMBER OF DOMAINS: 667 | Optimized
 ! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  UPDATED: 09/26/24  •  |
+! |  •  UPDATED: 09/27/24  •  |
 ! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
 ! |  •  SIZE: 23.9KB  •  |
 ! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
@@ -118,6 +118,11 @@ ff02::3 ip6-hosts
 0.0.0.0 awsul3.api.c0nnectthed0ts.com
 # ◑ --------------------------- ◐
 0.0.0.0 ads.doubleclick.net
+0.0.0.0 waytogypts.xyz
+0.0.0.0 android-traffic.com
+0.0.0.0 url.totalav.com
+0.0.0.0 directadvlink.com
+0.0.0.0 blutitutipokldu.com
 0.0.0.0 euw-ice.360yield.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 ad-spire.net
