@@ -761,6 +761,7 @@ ff02::3 ip6-hosts
 @@||api.viewerattack.com^
 @@||functions.soundalerts.com^
 @@||d3aqoihi2n8ty8.cloudfront.net^
+@@||extension.streamstickers.com^
 # ---- Nvidia Android TV ----
 @@||events.gfe.nvidia.com^
 @@||gfwsl.geforce.com^
