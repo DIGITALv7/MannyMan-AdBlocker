@@ -1,9 +1,9 @@
-! ----»» [ MannyMan's Ad Blocker ] ««----
+! ----»» [ MannyMan's Ad Blocker | Optimized ] ««----
 #
 ! |  •  TITLE: MannyMan-AdBlocker
 ! |  •  LIST TYPE: Supplementary Ads, Trackers & Annoyances Filter List
 ! |  •  EXPIRATION: Never
-! |  •  NUMBER OF DOMAINS: 667 | Optimized
+! |  •  NUMBER OF DOMAINS: 667
 ! |  •  AUTHOR: DIGITALv7  •  |
 ! |  •  UPDATED: 09/27/24  •  |
 ! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
