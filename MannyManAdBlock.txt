@@ -837,13 +837,13 @@ ff02::3 ip6-hosts
 # ---- Epic Games Store ----
 @@||tracking.epicgames.com^
 # ---- Lowe's Checkout ----
-@@||assets.adobedtm.com
+@@||assets.adobedtm.com^
 # ---- Home Depot Checkout ----
-@@||nexus.ensighten.com
+@@||nexus.ensighten.com^
 # ---- PlayStation 5 "Recently played games" & Trophies ----
-@@||telemetry-console.api.playstation.com
+@@||telemetry-console.api.playstation.com^
 # ---- Canon Printers ----
-@@||gdlp01.c-wss.com
+@@||gdlp01.c-wss.com^
 #
 #
 # ------ [ FILTERS END ] ------
