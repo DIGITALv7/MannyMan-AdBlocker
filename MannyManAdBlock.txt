@@ -813,6 +813,7 @@ ff02::3 ip6-hosts
 0.0.0.0 leadboltapps.com
 0.0.0.0 zeropark.comsupport.adamnet.works
 0.0.0.0 adamnet.works
+0.0.0.0 support.adamnet.works
 0.0.0.0 revenuehits.com
 0.0.0.0 popcash.net
 0.0.0.0 clickadu.com
@@ -841,7 +842,6 @@ ff02::3 ip6-hosts
 0.0.0.0 zeropark.com
 0.0.0.0 leadboltapps.com
 0.0.0.0 trafficjunky.com
-0.0.0.0 support.adamnet.works
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
