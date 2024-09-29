@@ -11,58 +11,58 @@
 # |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
 # |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
-!      ............♠︎...................♠︎...........
-!     /                                              \
-!    /                                                \
-!   (               Work in progress 😎              ) 
-!    \                                                /
-!     \............♠︎...................♠︎.........../
+#      ............♠︎...................♠︎...........
+#     /                                              \
+#    /                                                \
+#   (               Work in progress 😎              ) 
+#    \                                                /
+#     \............♠︎...................♠︎.........../
 #
-! ★ SHOUT0UTz: ★ •• AzeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
-!     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
-!     r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
-!    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy.                      
+# ★ SHOUT0UTz: ★ •• AzeroiDz, Tasha_Washa, MiCro, Data_007, iLLegal_DaTa
+#     Dr. MoDz, Kao (ExPliciT), BK-Carlito, DarkWeb-Devin,
+#     r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
+#    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy.                      
 #
-! ___________________________________________
-! •••√••• [ RECOMMENDED DNS SERVERS ] •••√•••
-! ___________________________________________
+# ___________________________________________
+# •••√••• [ RECOMMENDED DNS SERVERS ] •••√•••
+# ___________________________________________
 #
-! dns.adguard-dns.com
-! one.one.one.one
-! 1dot1dot1dot1.cloudflare-dns.com
+# dns.adguard-dns.com
+# one.one.one.one
+# 1dot1dot1dot1.cloudflare-dns.com
 #
-! __________________________________________________________________
-! •••√••• [ RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS ] •••√•••
-! __________________________________________________________________
+# __________________________________________________________________
+# •••√••• [ RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS ] •••√•••
+# __________________________________________________________________
 #
-! AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
-! AdAware, AdGuard
+# AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
+# AdAware, AdGuard
 #
-! ___________________________________________
-! •••√•••  [ AD BLOCK TESTING SITES ] •••√•••
-! ___________________________________________
+# ___________________________________________
+# •••√•••  [ AD BLOCK TESTING SITES ] •••√•••
+# ___________________________________________
 #
-! https://adblock-tester.com/
-! https://d3ward.github.io/toolz/src/adblock.html
-! https://blockads.fivefilters.org/
-! https://www.canyoublockit.com/
-! https://ads-blocker.com/testing/
+# https://adblock-tester.com/
+# https://d3ward.github.io/toolz/src/adblock.html
+# https://blockads.fivefilters.org/
+# https://www.canyoublockit.com/
+# https://ads-blocker.com/testing/
 #
-! _________________________________________
-! •••√••• [ DNS REQUEST LOGS INFO ] •••√•••
-! _________________________________________
+# _________________________________________
+# •••√••• [ DNS REQUEST LOGS INFO ] •••√•••
+# _________________________________________
 #
-! If some website's and/or app's necessary images fail to load -
-! check your ad-block's DNS Request Logs and whitelist any necessary link -
-! and then refresh the website/app.
+# If some website's and/or app's necessary images fail to load -
+# check your ad-block's DNS Request Logs and whitelist any necessary link -
+# and then refresh the website/app.
 #
 #
 # ~~~~ [ Filters Start ] ~~~~
 #
 #
-! ____________________________________
-! •••◆••• [ LOCAL HOST START ] •••◆•••
-! ____________________________________
+# ____________________________________
+# •••◆••• [ LOCAL HOST START ] •••◆•••
+# ____________________________________
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -78,9 +78,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-! _____________________________________
-! •••◆••• [  BLOCK LIST START ] •••◆•••
-! _____________________________________
+# _____________________________________
+# •••◆••• [  BLOCK LIST START ] •••◆•••
+# _____________________________________
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 api.sprig.com
@@ -817,9 +817,9 @@ ff02::3 ip6-hosts
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
 #
-! ------------------------------
-! --◆-- W H I T E L I S T --◆--
-! ------------------------------
+# ------------------------------
+# --◆-- W H I T E L I S T --◆--
+# ------------------------------
 # ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
 @@||api.viewerattack.com
 @@||coordinator.ext-twitch.tv
