@@ -1,15 +1,15 @@
-! ----»» [ MannyMan's Ad Block | Optimized ] ««----
+# ----»» [ MannyMan's Ad Block | Optimized ] ««----
 #
-! |  •  TITLE: MannyMan-AdBlock
-! |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
-! |  •  EXPIRATION: Never
-! |  •  NUMBER OF DOMAINS: 697
-! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  UPDATED: 09/29/24  •  |
-! |  •  TIME: 03:40PM CST, UTC -5 || 15:40PM  •  |
-! |  •  SIZE: 23.2KB  •  |
-! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
-! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
+# |  •  TITLE: MannyMan-AdBlock
+# |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
+# |  •  EXPIRATION: Never
+# |  •  NUMBER OF DOMAINS: 697
+# |  •  AUTHOR: DIGITALv7  •  |
+# |  •  UPDATED: 09/29/24  •  |
+# |  •  TIME: 03:40PM CST, UTC -5 || 15:40PM  •  |
+# |  •  SIZE: 23.2KB  •  |
+# |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
+# |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
 #
 !      ............♠︎...................♠︎...........
 !     /                                              \
@@ -821,12 +821,12 @@ ff02::3 ip6-hosts
 ! --◆-- W H I T E L I S T --◆--
 ! ------------------------------
 # ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
-@@||api.viewerattack.com^
-@@||coordinator.ext-twitch.tv^
-@@||d3aqoihi2n8ty8.cloudfront.net^
-@@||extension.streamstickers.com^
-@@||functions.soundalerts.com^
-@@||supervisor.ext-twitch.tv^
+@@||api.viewerattack.com
+@@||coordinator.ext-twitch.tv
+@@||d3aqoihi2n8ty8.cloudfront.net
+@@||extension.streamstickers.com
+@@||functions.soundalerts.com
+@@||supervisor.ext-twitch.tv
 #
 #
 # ------ [ FILTERS END ] ------
