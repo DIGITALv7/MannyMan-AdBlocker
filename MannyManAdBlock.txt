@@ -5,8 +5,8 @@
 ! |  •  EXPIRATION: Never
 ! |  •  NUMBER OF DOMAINS: 667
 ! |  •  AUTHOR: DIGITALv7  •  |
-! |  •  UPDATED: 09/27/24  •  |
-! |  •  TIME: 02:05PM CST, UTC -5 || 14:05PM  •  |
+! |  •  UPDATED: 09/29/24  •  |
+! |  •  TIME: 03:40PM CST, UTC -5 || 15:40PM  •  |
 ! |  •  SIZE: 24KB  •  |
 ! |  •  HOMEPAGE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/MannyManAdBlock.txt  •  |
 ! |  •  LICENSE: https://github.com/DIGITALv7/MannyMan-AdBlocker/blob/main/LICENSE  •  |
@@ -751,6 +751,54 @@ ff02::3 ip6-hosts
 0.0.0.0 zeus.cmcm.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
+0.0.0.0 yourstats.net
+0.0.0.0yourtracking.net
+0.0.0.0youyield.com
+0.0.0.0adtraffic.net
+0.0.0.0adtrak.net
+0.0.0.0adtransfer.net
+0.0.0.0tw2.adserver.yahoo.com
+0.0.0.0tw.adserver.yahoo.com
+0.0.0.0clickforasurprise.com
+0.0.0.0clickforwebmasters.com
+0.0.0.0adrotator.com
+0.0.0.0adrotator.net
+0.0.0.0adforest.net
+0.0.0.0adform.com
+0.0.0.0adforce.com
+0.0.0.0adfluence.net
+0.0.0.0adfly.com
+0.0.0.0adcomplete.com
+0.0.0.0adclick.com
+0.0.0.0adclick.g.doubleclick.net
+0.0.0.0ad.yieldads.com
+0.0.0.0ad.yieldlab.net
+0.0.0.0ad.yieldmanager.com
+0.0.0.0ad.pushad.net
+0.0.0.0ad.iconadserver.com
+0.0.0.0ad.airad.com
+0.0.0.0ad.ae.doubleclick.net
+0.0.0.0ad.3au.doubleclick.net
+0.0.0.0websponsors.com
+0.0.0.07adpower.com
+0.0.0.06d-antivirus.com 6dad.com
+0.0.0.052clickad.com
+0.0.0.050websads.com
+0.0.0.03.marketbanker.com
+0.0.0.03.adbrite.com
+0.0.0.0163ads.com
+0.0.0.0160ads.com
+0.0.0.0160tracker.com
+0.0.0.0cdn.cookielaw.org
+0.0.0.0responder.wt-safetag.com
+0.0.0.0api.wicket-keeper.com
+0.0.0.0static.hotjar.com
+0.0.0.0beacons.gcp.gvt2.com
+0.0.0.0stk.px-cloud.net
+0.0.0.0collector-pxjmcvubg8.pxchk.net
+0.0.0.0collector-pxjmcvubg8.px-cloud.net
+0.0.0.0collector-pxjmcvubg8.px-cdn.net
+0.0.0.0browser-intake-datadoghq.com
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
