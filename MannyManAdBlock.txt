@@ -181,7 +181,8 @@ ff02::3 ip6-hosts
 0.0.0.0 adremedy.com
 0.0.0.0 adreporting.comadsmart.com
 0.0.0.0 adsmart.net
-0.0.0.0 adsmartracker.comadvertise.com
+0.0.0.0 adsmartracker.com
+0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertising.com
@@ -752,53 +753,59 @@ ff02::3 ip6-hosts
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
 0.0.0.0 yourstats.net
-0.0.0.0yourtracking.net
-0.0.0.0youyield.com
-0.0.0.0adtraffic.net
-0.0.0.0adtrak.net
-0.0.0.0adtransfer.net
-0.0.0.0tw2.adserver.yahoo.com
-0.0.0.0tw.adserver.yahoo.com
-0.0.0.0clickforasurprise.com
-0.0.0.0clickforwebmasters.com
-0.0.0.0adrotator.com
-0.0.0.0adrotator.net
-0.0.0.0adforest.net
-0.0.0.0adform.com
-0.0.0.0adforce.com
-0.0.0.0adfluence.net
-0.0.0.0adfly.com
-0.0.0.0adcomplete.com
-0.0.0.0adclick.com
-0.0.0.0adclick.g.doubleclick.net
-0.0.0.0ad.yieldads.com
-0.0.0.0ad.yieldlab.net
-0.0.0.0ad.yieldmanager.com
-0.0.0.0ad.pushad.net
-0.0.0.0ad.iconadserver.com
-0.0.0.0ad.airad.com
-0.0.0.0ad.ae.doubleclick.net
-0.0.0.0ad.3au.doubleclick.net
-0.0.0.0websponsors.com
-0.0.0.07adpower.com
-0.0.0.06d-antivirus.com 6dad.com
-0.0.0.052clickad.com
-0.0.0.050websads.com
-0.0.0.03.marketbanker.com
-0.0.0.03.adbrite.com
-0.0.0.0163ads.com
-0.0.0.0160ads.com
-0.0.0.0160tracker.com
-0.0.0.0cdn.cookielaw.org
-0.0.0.0responder.wt-safetag.com
-0.0.0.0api.wicket-keeper.com
-0.0.0.0static.hotjar.com
-0.0.0.0beacons.gcp.gvt2.com
-0.0.0.0stk.px-cloud.net
-0.0.0.0collector-pxjmcvubg8.pxchk.net
-0.0.0.0collector-pxjmcvubg8.px-cloud.net
-0.0.0.0collector-pxjmcvubg8.px-cdn.net
-0.0.0.0browser-intake-datadoghq.com
+0.0.0.0 yourtracking.net
+0.0.0.0 youyield.com
+0.0.0.0 adtraffic.net
+0.0.0.0 adtrak.net
+0.0.0.0 adtransfer.net
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 tw.adserver.yahoo.com
+0.0.0.0 clickforasurprise.com
+0.0.0.0 clickforwebmasters.com
+0.0.0.0 adrotator.com
+0.0.0.0 adrotator.net
+0.0.0.0 adforest.net
+0.0.0.0 adform.com
+0.0.0.0 adforce.com
+0.0.0.0 adfluence.net
+0.0.0.0 adfly.com
+0.0.0.0 adcomplete.com
+0.0.0.0 adclick.com
+0.0.0.0 ad.yieldads.com
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ad.pushad.net
+0.0.0.0 ad.iconadserver.com
+0.0.0.0 ad.airad.com
+0.0.0.0 ad.us.doubleclick.net
+0.0.0.0 ad.mx.doubleclick.net
+0.0.0.0 ad.ru.doubleclick.net
+0.0.0.0 ad.nz.doubleclick.net
+0.0.0.0 ad.eu.doubleclick.net
+0.0.0.0 ad.br.doubleclick.net
+0.0.0.0 ad.ae.doubleclick.net
+0.0.0.0 ad.3au.doubleclick.net
+0.0.0.0 websponsors.com
+0.0.0.0 7adpower.com
+0.0.0.0 6d-antivirus.com
+0.0.0.0 6dad.com
+0.0.0.0 52clickad.com
+0.0.0.0 50websads.com
+0.0.0.0 marketbanker.com
+0.0.0.0 adbrite.com
+0.0.0.0 163ads.com
+0.0.0.0 160ads.com
+0.0.0.0 160tracker.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 responder.wt-safetag.com
+0.0.0.0 api.wicket-keeper.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 stk.px-cloud.net
+0.0.0.0 collector-pxjmcvubg8.pxchk.net
+0.0.0.0 collector-pxjmcvubg8.px-cloud.net
+0.0.0.0 collector-pxjmcvubg8.px-cdn.net
+0.0.0.0 browser-intake-datadoghq.com
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
