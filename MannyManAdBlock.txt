@@ -771,12 +771,12 @@ ff02::3 ip6-hosts
 0.0.0.0 adfly.com
 0.0.0.0 adcomplete.com
 0.0.0.0 adclick.com
-0.0.0.0 ad.yieldads.com
-0.0.0.0 ad.yieldlab.net
-0.0.0.0 ad.yieldmanager.com
-0.0.0.0 ad.pushad.net
-0.0.0.0 ad.iconadserver.com
-0.0.0.0 ad.airad.com
+0.0.0.0 yieldads.com
+0.0.0.0 yieldlab.net
+0.0.0.0 yieldmanager.com
+0.0.0.0 pushad.net
+0.0.0.0 iconadserver.com
+0.0.0.0 airad.com
 0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad.mx.doubleclick.net
 0.0.0.0 ad.ru.doubleclick.net
@@ -806,42 +806,42 @@ ff02::3 ip6-hosts
 0.0.0.0 collector-pxjmcvubg8.px-cloud.net
 0.0.0.0 collector-pxjmcvubg8.px-cdn.net
 0.0.0.0 browser-intake-datadoghq.com
-0.0.0.0adspeed.com
-0.0.0.0optimonk.com
-0.0.0.0adcreative.ai
-0.0.0.0trafficjunky.com
-0.0.0.0leadboltapps.com
-0.0.0.0zeropark.comsupport.adamnet.works
-0.0.0.0adamnet.works
-0.0.0.0revenuehits.com
-0.0.0.0popcash.net
-0.0.0.0clickadu.com
-0.0.0.0propellerads.com
-0.0.0.0partners.propellerads.com
-0.0.0.0admaven.com
-0.0.0.0adsterra.com
-0.0.0.0clickadilla.com
-0.0.0.0adcash.com
-0.0.0.0popads.net
-richads.com
-ui.twinred.com
-twinred.com
-dao.ad
-galaksionads.com
-hilltopads.com
-reacheffect.com
-onclicka.com
-ux13.juicyads.com
-juicyads.com
-exoclick.com
-trafficstars.com
-ezmob.com
-mybid.io
-ungads.com
-zeropark.com
-leadboltapps.com
-trafficjunky.com
-support.adamnet.works
+0.0.0.0 adspeed.com
+0.0.0.0 optimonk.com
+0.0.0.0 adcreative.ai
+0.0.0.0 trafficjunky.com
+0.0.0.0 leadboltapps.com
+0.0.0.0 zeropark.comsupport.adamnet.works
+0.0.0.0 adamnet.works
+0.0.0.0 revenuehits.com
+0.0.0.0 popcash.net
+0.0.0.0 clickadu.com
+0.0.0.0 propellerads.com
+0.0.0.0 partners.propellerads.com
+0.0.0.0 admaven.com
+0.0.0.0 adsterra.com
+0.0.0.0 clickadilla.com
+0.0.0.0 adcash.com
+0.0.0.0 popads.net
+0.0.0.0 richads.com
+0.0.0.0 ui.twinred.com
+0.0.0.0 twinred.com
+0.0.0.0 dao.ad
+0.0.0.0 galaksionads.com
+0.0.0.0 hilltopads.com
+0.0.0.0 reacheffect.com
+0.0.0.0 onclicka.com
+0.0.0.0 ux13.juicyads.com
+0.0.0.0 juicyads.com
+0.0.0.0 exoclick.com
+0.0.0.0 trafficstars.com
+0.0.0.0 ezmob.com
+0.0.0.0 mybid.io
+0.0.0.0 ungads.com
+0.0.0.0 zeropark.com
+0.0.0.0 leadboltapps.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 support.adamnet.works
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
