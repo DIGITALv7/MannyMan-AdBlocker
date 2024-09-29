@@ -591,6 +591,7 @@ ff02::3 ip6-hosts
 0.0.0.0 mpproxy.ksmobile.net
 0.0.0.0 mv.cmcm.com
 0.0.0.0 mybid.io
+0.0.0.0 myntagency.com
 0.0.0.0 nativo.com
 0.0.0.0 networkadvertising.org
 0.0.0.0 news.cmcm.com
