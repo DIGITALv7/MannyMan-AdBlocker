@@ -806,6 +806,42 @@ ff02::3 ip6-hosts
 0.0.0.0 collector-pxjmcvubg8.px-cloud.net
 0.0.0.0 collector-pxjmcvubg8.px-cdn.net
 0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0adspeed.com
+0.0.0.0optimonk.com
+0.0.0.0adcreative.ai
+0.0.0.0trafficjunky.com
+0.0.0.0leadboltapps.com
+0.0.0.0zeropark.comsupport.adamnet.works
+0.0.0.0adamnet.works
+0.0.0.0revenuehits.com
+0.0.0.0popcash.net
+0.0.0.0clickadu.com
+0.0.0.0propellerads.com
+0.0.0.0partners.propellerads.com
+0.0.0.0admaven.com
+0.0.0.0adsterra.com
+0.0.0.0clickadilla.com
+0.0.0.0adcash.com
+0.0.0.0popads.net
+richads.com
+ui.twinred.com
+twinred.com
+dao.ad
+galaksionads.com
+hilltopads.com
+reacheffect.com
+onclicka.com
+ux13.juicyads.com
+juicyads.com
+exoclick.com
+trafficstars.com
+ezmob.com
+mybid.io
+ungads.com
+zeropark.com
+leadboltapps.com
+trafficjunky.com
+support.adamnet.works
 #
 ! ------------------------------
 ! --◆-- W H I T E L I S T --◆--
