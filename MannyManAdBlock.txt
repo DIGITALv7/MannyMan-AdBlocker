@@ -1,4 +1,4 @@
-# ----»» [ MannyMan's Ad Block | Optimized ] ««----
+# ----»» [ 🛡 MannyMan's Ad Block 🛡 | Optimized ] ««----
 #
 # |  •  TITLE: MannyMan-AdBlock
 # |  •  LIST TYPE: Supplementary Ads & Trackers Filter List
@@ -23,24 +23,24 @@
 #     r00t-X, Modded-Matt, maliciouS, Andrea-Doom, SinClair, SoH, TEF,
 #    AoD, TCF, CFE, Quija-Z, LULz, n0-SEC, Data Tones, Anonymous Nation NY & Sector Spy.                      
 #
-# ___________________________________________
-# •••√••• [ RECOMMENDED DNS SERVERS ] •••√•••
-# ___________________________________________
+# _____________________________________________
+# •••🌐••• [ RECOMMENDED DNS SERVERS ] •••🌐•••
+# _____________________________________________
 #
 # dns.adguard-dns.com
 # one.one.one.one
 # 1dot1dot1dot1.cloudflare-dns.com
 #
-# __________________________________________________________________
-# •••√••• [ RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS ] •••√•••
-# __________________________________________________________________
+# ____________________________________________________________________
+# •••✅••• [ RECOMMENDED AD BLOCK APPS & BROWSER EXTENSIONS ] •••✅•••
+# ____________________________________________________________________
 #
 # AdAway, Blokada, Wize Adblock, uOrigin, Pi-Hole, Ad Block/Ad Block Plus/TamperMonkey browser extensions,
 # AdAware, AdGuard
 #
-# ___________________________________________
-# •••√•••  [ AD BLOCK TESTING SITES ] •••√•••
-# ___________________________________________
+# _____________________________________________
+# •••📊•••  [ AD BLOCK TESTING SITES ] •••📊•••
+# _____________________________________________
 #
 # https://adblock-tester.com/
 # https://d3ward.github.io/toolz/src/adblock.html
@@ -48,9 +48,9 @@
 # https://www.canyoublockit.com/
 # https://ads-blocker.com/testing/
 #
-# _________________________________________
-# •••√••• [ DNS REQUEST LOGS INFO ] •••√•••
-# _________________________________________
+# ___________________________________________
+# •••📈••• [ DNS REQUEST LOGS INFO ] •••📉•••
+# ___________________________________________
 #
 # If some website's and/or app's necessary images fail to load -
 # check your ad-block's DNS Request Logs and whitelist any necessary link -
@@ -78,9 +78,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-hosts
 0.0.0.0 0.0.0.0
 #
-# _____________________________________
+# ______________________________________
 # •••◆••• [  BLOCK LIST START ] •••◆•••
-# _____________________________________
+# ______________________________________
 # ◑ ------ Twitch TV Ads / (may not always block) ------ ◐
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 api.sprig.com
@@ -817,9 +817,9 @@ ff02::3 ip6-hosts
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
 #
-# ------------------------------
-# --◆-- W H I T E L I S T --◆--
-# ------------------------------
+# ______________________________
+# •••◆••• [ WHITELIST ] •••◆•••
+# ______________________________
 # ---- Twitch TV / Prevents streamer channel extensions & CheerBits animations from causing loading errors. Updated as needed. ----
 @@||api.viewerattack.com
 @@||coordinator.ext-twitch.tv
